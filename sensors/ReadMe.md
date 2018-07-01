@@ -22,6 +22,9 @@ MOD-0021:   Two Color LED
 
 MOD-0022:   Laser Emitter
 
+MOD-0023:   L298 Motor Driver
+
+
 
 
 

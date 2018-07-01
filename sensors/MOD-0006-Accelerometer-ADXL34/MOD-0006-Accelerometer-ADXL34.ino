@@ -1,6 +1,6 @@
 /*
 
-Tinker Pi MOD-0006 - Accelerometer
+Tinker Pi - Accelerometer - MOD-0006
 
 The circuit:
  VCC: 5V

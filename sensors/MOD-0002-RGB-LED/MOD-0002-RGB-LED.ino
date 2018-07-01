@@ -1,5 +1,5 @@
 
-// Tinker Pi RGB LED
+// Tinker Pi RGB LED - MOD-0002
 
 int redpin = 11;          // Pin for the red led
 int bluepin = 10;         // Pin for the blue led

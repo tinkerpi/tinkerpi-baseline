@@ -1,5 +1,5 @@
 
-// Tinker Pi MOD-0007 - Joystick
+// Tinker Pi Joystick - MOD-0007
 
 int JoyStick_X = 0; //x
 int JoyStick_Y = 1; //y

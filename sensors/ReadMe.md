@@ -24,6 +24,9 @@ MOD-0022:   Laser Emitter
 
 MOD-0023:   L298 Motor Driver
 
+SNS-0001:   Photoresister
+
+
 
 
 

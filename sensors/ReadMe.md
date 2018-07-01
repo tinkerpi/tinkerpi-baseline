@@ -16,6 +16,8 @@ MOD-0014:   IR Receiver
 
 MOD-0015:   Bluetooth
 
+MOD-0020:   Color Flash Module
+
 
 
 

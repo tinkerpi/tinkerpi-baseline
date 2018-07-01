@@ -8,4 +8,10 @@ MOD-0007:   Joystick
 
 MOD-0009:   Push Button
 
+MOD-0012:   Piranha LED
+
+MOD-0013:   IR Transmitter
+
+
+
 

@@ -20,6 +20,8 @@ MOD-0020:   Color Flash Module
 
 MOD-0021:   Two Color LED
 
+MOD-0022:   Laser Emitter
+
 
 
 

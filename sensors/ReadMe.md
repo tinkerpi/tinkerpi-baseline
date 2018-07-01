@@ -12,6 +12,10 @@ MOD-0012:   Piranha LED
 
 MOD-0013:   IR Transmitter
 
+MOD-0014:   IR Receiver
+
+
+
 
 
 

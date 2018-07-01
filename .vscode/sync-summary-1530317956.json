@@ -1,0 +1,13 @@
+{
+    "_readMe": "Review list of sync operations, then use Ftp-sync: Commit command to accept changes",
+    "_warning": "This file should not be saved, reopened review file won't work!",
+    "filesToUpdate": [
+        "sensors/SNS-0024/SNS-0024.ino"
+    ],
+    "filesToAdd": [
+        "scripts/arduino_serial_test/arduino_serial_test.ino"
+    ],
+    "dirsToAdd": [],
+    "filesToRemove": [],
+    "dirsToRemove": []
+}

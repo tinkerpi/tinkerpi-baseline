@@ -40,6 +40,7 @@ SNS-0016:   Analog Temperature Sensor
 
 SNS-0019:   Temperature Sensor DS18S20
 
+SNS-0020:   Temperature & Humidity Sensor DHT11
 
 
 

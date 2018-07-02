@@ -6,6 +6,10 @@ MOD-0002:   RGB LED
 
 MOD-0003:   Passive Buzzer
 
+MOD-0004:   Active Buzzer
+
+MOD-0005:   Photo Interrupter
+
 MOD-0006:   Accelerometer ADXL34
 
 MOD-0007:   Joystick

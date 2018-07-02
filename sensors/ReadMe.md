@@ -38,6 +38,8 @@ SNS-0009:   Tilt Sensor
 
 SNS-0016:   Analog Temperature Sensor
 
+SNS-0019:   Temperature Sensor DS18S20
+
 
 
 

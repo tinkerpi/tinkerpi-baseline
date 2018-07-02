@@ -6,6 +6,7 @@ Tinker Pi Single Color LED - LoLa# MOD-0001
 Compatible:
     
     Ks0017 keyestudio White LED Module
+    Ks0016 keyestudio Piranha LED Light Module
 
 */
 

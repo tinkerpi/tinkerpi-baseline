@@ -28,6 +28,10 @@ SNS-0001:   Photoresister
 
 SNS-0003:   Line Tracking Sensor
 
+SNS-0004:   Obstacle Avoidance Sensor
+
+
+
 
 
 

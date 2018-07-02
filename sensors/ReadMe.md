@@ -32,6 +32,8 @@ SNS-0004:   Obstacle Avoidance Sensor
 
 SNS-0006:   Ultrasonic Sensor
 
+SNS-0008:   Analog Rotation Sensor
+
 
 
 

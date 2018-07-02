@@ -1,6 +1,10 @@
 This directory contains test scripts for the Tinker Pi sensors and modules:
 
+MOD-0001:   Single Color LED
+
 MOD-0002:   RGB LED
+
+MOD-0003:   Passive Buzzer
 
 MOD-0006:   Accelerometer ADXL34
 

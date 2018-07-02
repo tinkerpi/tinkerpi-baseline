@@ -1,5 +1,14 @@
 
-// Tinker Pi RGB LED - MOD-0002
+
+/* 
+
+Tinker Pi RGB LED - LoLa# MOD-0002
+
+Compatible:
+    
+    KS0032 keyestudio RGB LED Module
+
+*/
 
 int redpin = 11;          // Pin for the red led
 int bluepin = 10;         // Pin for the blue led

@@ -1,11 +1,11 @@
 
 /* 
 
-Tinker Pi Single Color LED - MOD-0001
+Tinker Pi Single Color LED - LoLa# MOD-0001
 
 Compatible:
     
-    Keyestudio KS0017 - White LED Module
+    Ks0017 keyestudio White LED Module
 
 */
 

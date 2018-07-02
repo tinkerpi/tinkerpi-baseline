@@ -36,6 +36,10 @@ SNS-0008:   Analog Rotation Sensor
 
 SNS-0009:   Tilt Sensor
 
+SNS-0016:   Analog Temperature Sensor
+
+
+
 
 
 

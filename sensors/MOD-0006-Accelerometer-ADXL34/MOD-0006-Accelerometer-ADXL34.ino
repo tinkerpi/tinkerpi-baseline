@@ -1,18 +1,22 @@
-/*
+/* 
 
-Tinker Pi - Accelerometer - MOD-0006
+Tinker Pi 3-Axis Accelerometer ADXL34 - LoLa# MOD-0006
+
+Compatible:
+    
+    Ks0012 keyestudio ADXL345 Three Axis Acceleration Module
 
 The circuit:
+
  VCC: 5V
  GND: ground
  SCL: UNO SLC
  SDA: UNO SDA
  
- This example code is in the public domain.
+This example code is in the public domain.
 
 */
-#include <Wire.h>
-// Registers for ADXL345
+#include <Wire.h>                   // Wire.h library must be added to Arduino for this to work
 
 #define ADXL345_ADDRESS (0xA6 >> 1)  // address for device is 8 bit but shift to the
                                      // right by 1 bit to make it 7 bit because the

@@ -1,14 +1,22 @@
 
-// Tinker Pi Joystick - MOD-0007
+/* 
 
-int JoyStick_X = 0; //x
-int JoyStick_Y = 1; //y
-int JoyStick_Z = 3; //key
+Tinker Pi Joystick - MOD-0007
+
+Compatible:
+    
+    Ks0008 keyestudio Joystick Module
+
+*/
+
+int JoyStick_X = 0;               // X Axis of Joystick
+int JoyStick_Y = 1;               // Y Axis of Joystick
+int JoyStick_Z = 3;               // Key of Joystick
 
 void setup() 
 {
   pinMode(JoyStick_Z, INPUT); 
-  Serial.begin(9600); // 9600 bps
+  Serial.begin(9600);             // Set up Serial for the Console
 }
 
 void loop() 

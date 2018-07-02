@@ -14,6 +14,8 @@ MOD-0006:   Accelerometer ADXL34
 
 MOD-0007:   Joystick
 
+MOD-0008:   Knock Sensor
+
 MOD-0009:   Push Button
 
 MOD-0012:   Piranha LED

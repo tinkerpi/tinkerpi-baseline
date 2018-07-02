@@ -30,6 +30,9 @@ SNS-0003:   Line Tracking Sensor
 
 SNS-0004:   Obstacle Avoidance Sensor
 
+SNS-0006:   Ultrasonic Sensor
+
+
 
 
 

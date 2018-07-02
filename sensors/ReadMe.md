@@ -18,6 +18,8 @@ MOD-0008:   Knock Sensor
 
 MOD-0009:   Push Button
 
+MOD-0010:   Rotary Encoder
+
 MOD-0012:   Piranha LED
 
 MOD-0013:   IR Transmitter

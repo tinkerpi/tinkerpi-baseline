@@ -26,6 +26,8 @@ MOD-0023:   L298 Motor Driver
 
 SNS-0001:   Photoresister
 
+SNS-0003:   Line Tracking Sensor
+
 
 
 

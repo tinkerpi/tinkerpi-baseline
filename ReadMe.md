@@ -1,6 +1,6 @@
-Welcome to the TinkerPi Directory!
+Welcome to the TinkerPi Baseline Directory!
 
-This directory is meant to sync with the Raspberry Pis.  For instructions on how to set it up, see TurboTinker #10, and it's corresponding tutorial.  
+This directory is meant to sync with the Raspberry Pis in your classroom.  For instructions on how to set it up, see TurboTinker #10, and it's corresponding tutorial.  
 
 config:  Config files for the Pi that need to be copied to another location once it's on the Pi.  For instance, files that will autostart programs when the device boots up.
 

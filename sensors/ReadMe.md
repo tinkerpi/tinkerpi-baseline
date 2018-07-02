@@ -34,6 +34,9 @@ SNS-0006:   Ultrasonic Sensor
 
 SNS-0008:   Analog Rotation Sensor
 
+SNS-0009:   Tilt Sensor
+
+
 
 
 
